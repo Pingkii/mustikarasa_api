@@ -1,0 +1,23 @@
+{
+  "name": "mustikarasa_api",
+  "version": "1.0.0",
+  "description": "mustika rasa api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pingkii/mustikarasa_api.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs"
+  ],
+  "author": "Pingkii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pingkii/mustikarasa_api/issues"
+  },
+  "homepage": "https://github.com/Pingkii/mustikarasa_api#readme"
+}
